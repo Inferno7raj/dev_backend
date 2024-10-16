@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HcQxTIUqSBkd4SHxxDRYCFUlgdk3fuLajPcZyTlwPdY=",
+  "Source": "PersonalDetailsAPI",
+  "BasePath": "_content/PersonalDetailsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
